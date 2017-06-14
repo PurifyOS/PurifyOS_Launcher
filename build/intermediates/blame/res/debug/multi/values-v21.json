@@ -1,0 +1,70 @@
+[
+    {
+        "outputFile": "/home/erny/Scrivania/Launcher/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v21/values-v21.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 5,
+                    "endColumn": 12,
+                    "endOffset": 319
+                },
+                "from": {
+                    "file": "/home/erny/Scrivania/Launcher/WallpaperPicker/res/values-v21/styles.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1193,
+                        "endLine": 33,
+                        "endColumn": 12,
+                        "endOffset": 1457
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 324,
+                    "endLine": 15,
+                    "endColumn": 12,
+                    "endOffset": 969
+                },
+                "from": {
+                    "file": "/home/erny/Scrivania/Launcher/WallpaperPicker/res/values-v21/styles.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 1463,
+                        "endLine": 44,
+                        "endColumn": 12,
+                        "endOffset": 2108
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 974,
+                    "endLine": 23,
+                    "endColumn": 12,
+                    "endOffset": 1430
+                },
+                "from": {
+                    "file": "/home/erny/Scrivania/Launcher/WallpaperPicker/res/values-v21/styles.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 731,
+                        "endLine": 28,
+                        "endColumn": 12,
+                        "endOffset": 1187
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/erny/Scrivania/Launcher/build/intermediates/res/merged/debug/anim/fade_out.xml",
+        "source": "/home/erny/Scrivania/Launcher/WallpaperPicker/res/anim/fade_out.xml"
+    },
+    {
+        "merged": "/home/erny/Scrivania/Launcher/build/intermediates/res/merged/debug/anim/task_open_enter.xml",
+        "source": "/home/erny/Scrivania/Launcher/res/anim/task_open_enter.xml"
+    },
+    {
+        "merged": "/home/erny/Scrivania/Launcher/build/intermediates/res/merged/debug/anim/no_anim.xml",
+        "source": "/home/erny/Scrivania/Launcher/res/anim/no_anim.xml"
+    }
+]

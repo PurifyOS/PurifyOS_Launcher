@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/erny/Scrivania/Launcher/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/home/erny/Scrivania/Launcher/build/intermediates/pre-dexed/debug/internal_impl-23.1.1_1539f3b011f46a7c0c71c079747a5891e8db0ef8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/erny/Scrivania/Launcher/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/home/erny/Scrivania/Launcher/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.1.1_25dc5fe763c85e72a9a899741297328e63b8ccb2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/erny/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/home/erny/Scrivania/Launcher/build/intermediates/pre-dexed/debug/support-annotations-23.1.1_e3ca67c7a2f317305fbaed52d292f0cc4400a79d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/erny/Scrivania/Launcher/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="/home/erny/Scrivania/Launcher/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.1.1_2a4d198ab33374603d3ae3aeeca6301fd796e11e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/erny/.gradle/caches/modules-2/files-2.1/com.google.protobuf.nano/protobuf-javanano/3.0.0-alpha-2/3cd9afea26d9c5d9542506ca0704da4bcceda940/protobuf-javanano-3.0.0-alpha-2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="3cd9afea26d9c5d9542506ca0704da4bcceda940">
+        <dex dex="/home/erny/Scrivania/Launcher/build/intermediates/pre-dexed/debug/protobuf-javanano-3.0.0-alpha-2_9876462997429b03d28c2520c6e8c6d16e1f63ad.jar" />
+    </item>
+
+</items>

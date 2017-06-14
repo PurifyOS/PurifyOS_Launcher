@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/erny/Scrivania/Launcher/build/intermediates/res/merged/debug/layout-port/launcher.xml",
+        "source": "/home/erny/Scrivania/Launcher/res/layout-port/launcher.xml"
+    },
+    {
+        "merged": "/home/erny/Scrivania/Launcher/build/intermediates/res/merged/debug/layout-port/migration_cling.xml",
+        "source": "/home/erny/Scrivania/Launcher/res/layout-port/migration_cling.xml"
+    },
+    {
+        "merged": "/home/erny/Scrivania/Launcher/build/intermediates/res/merged/debug/layout-port/longpress_cling.xml",
+        "source": "/home/erny/Scrivania/Launcher/res/layout-port/longpress_cling.xml"
+    }
+]

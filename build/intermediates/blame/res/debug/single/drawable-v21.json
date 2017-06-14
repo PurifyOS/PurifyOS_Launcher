@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/erny/Scrivania/Launcher/build/intermediates/res/merged/debug/drawable-v21/wallpaper_tile_fg.xml",
+        "source": "/home/erny/Scrivania/Launcher/WallpaperPicker/res/drawable-v21/wallpaper_tile_fg.xml"
+    },
+    {
+        "merged": "/home/erny/Scrivania/Launcher/build/intermediates/res/merged/debug/drawable-v21/quantum_panel_dark.xml",
+        "source": "/home/erny/Scrivania/Launcher/res/drawable-v21/quantum_panel_dark.xml"
+    },
+    {
+        "merged": "/home/erny/Scrivania/Launcher/build/intermediates/res/merged/debug/drawable-v21/ic_tick.xml",
+        "source": "/home/erny/Scrivania/Launcher/WallpaperPicker/res/drawable-v21/ic_tick.xml"
+    },
+    {
+        "merged": "/home/erny/Scrivania/Launcher/build/intermediates/res/merged/debug/drawable-v21/all_apps_search_market_bg.xml",
+        "source": "/home/erny/Scrivania/Launcher/res/drawable-v21/all_apps_search_market_bg.xml"
+    },
+    {
+        "merged": "/home/erny/Scrivania/Launcher/build/intermediates/res/merged/debug/drawable-v21/quantum_panel.xml",
+        "source": "/home/erny/Scrivania/Launcher/res/drawable-v21/quantum_panel.xml"
+    }
+]

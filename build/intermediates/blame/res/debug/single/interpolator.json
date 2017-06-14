@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/erny/Scrivania/Launcher/build/intermediates/res/merged/debug/interpolator/decelerate_quart.xml",
+        "source": "/home/erny/Scrivania/Launcher/res/interpolator/decelerate_quart.xml"
+    },
+    {
+        "merged": "/home/erny/Scrivania/Launcher/build/intermediates/res/merged/debug/interpolator/decelerate_quint.xml",
+        "source": "/home/erny/Scrivania/Launcher/res/interpolator/decelerate_quint.xml"
+    }
+]

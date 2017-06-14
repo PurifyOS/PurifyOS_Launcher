@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "/home/erny/Scrivania/Launcher/build/intermediates/res/merged/debug/xml/default_workspace_4x4.xml",
+        "source": "/home/erny/Scrivania/Launcher/res/xml/default_workspace_4x4.xml"
+    },
+    {
+        "merged": "/home/erny/Scrivania/Launcher/build/intermediates/res/merged/debug/xml/app_target_messenger.xml",
+        "source": "/home/erny/Scrivania/Launcher/res/xml/app_target_messenger.xml"
+    },
+    {
+        "merged": "/home/erny/Scrivania/Launcher/build/intermediates/res/merged/debug/xml/app_target_gallery.xml",
+        "source": "/home/erny/Scrivania/Launcher/res/xml/app_target_gallery.xml"
+    },
+    {
+        "merged": "/home/erny/Scrivania/Launcher/build/intermediates/res/merged/debug/xml/dw_phone_hotseat.xml",
+        "source": "/home/erny/Scrivania/Launcher/res/xml/dw_phone_hotseat.xml"
+    },
+    {
+        "merged": "/home/erny/Scrivania/Launcher/build/intermediates/res/merged/debug/xml/default_workspace_5x6.xml",
+        "source": "/home/erny/Scrivania/Launcher/res/xml/default_workspace_5x6.xml"
+    },
+    {
+        "merged": "/home/erny/Scrivania/Launcher/build/intermediates/res/merged/debug/xml/launcher_preferences.xml",
+        "source": "/home/erny/Scrivania/Launcher/res/xml/launcher_preferences.xml"
+    },
+    {
+        "merged": "/home/erny/Scrivania/Launcher/build/intermediates/res/merged/debug/xml/default_workspace_3x3.xml",
+        "source": "/home/erny/Scrivania/Launcher/res/xml/default_workspace_3x3.xml"
+    },
+    {
+        "merged": "/home/erny/Scrivania/Launcher/build/intermediates/res/merged/debug/xml/app_target_camera.xml",
+        "source": "/home/erny/Scrivania/Launcher/res/xml/app_target_camera.xml"
+    },
+    {
+        "merged": "/home/erny/Scrivania/Launcher/build/intermediates/res/merged/debug/xml/default_workspace_5x5.xml",
+        "source": "/home/erny/Scrivania/Launcher/res/xml/default_workspace_5x5.xml"
+    },
+    {
+        "merged": "/home/erny/Scrivania/Launcher/build/intermediates/res/merged/debug/xml/app_target_email.xml",
+        "source": "/home/erny/Scrivania/Launcher/res/xml/app_target_email.xml"
+    },
+    {
+        "merged": "/home/erny/Scrivania/Launcher/build/intermediates/res/merged/debug/xml/app_target_browser.xml",
+        "source": "/home/erny/Scrivania/Launcher/res/xml/app_target_browser.xml"
+    },
+    {
+        "merged": "/home/erny/Scrivania/Launcher/build/intermediates/res/merged/debug/xml/app_target_phone.xml",
+        "source": "/home/erny/Scrivania/Launcher/res/xml/app_target_phone.xml"
+    },
+    {
+        "merged": "/home/erny/Scrivania/Launcher/build/intermediates/res/merged/debug/xml/dw_tablet_hotseat.xml",
+        "source": "/home/erny/Scrivania/Launcher/res/xml/dw_tablet_hotseat.xml"
+    }
+]

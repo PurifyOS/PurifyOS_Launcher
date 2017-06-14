@@ -1,0 +1,1890 @@
+[
+    {
+        "outputFile": "/home/erny/Scrivania/Launcher/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sk/values-sk.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endLine": 7,
+                    "endColumn": 14,
+                    "endOffset": 470
+                },
+                "from": {
+                    "file": "/home/erny/Scrivania/Launcher/WallpaperPicker/res/values-sk/strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1224,
+                        "endLine": 30,
+                        "endColumn": 14,
+                        "endOffset": 1589
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 475,
+                    "endColumn": 88,
+                    "endOffset": 559
+                },
+                "from": {
+                    "file": "/home/erny/Scrivania/Launcher/res/values-sk/strings.xml",
+                    "position": {
+                        "startLine": 76,
+                        "startColumn": 4,
+                        "startOffset": 6921,
+                        "endColumn": 88,
+                        "endOffset": 7005
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 564,
+                    "endColumn": 223,
+                    "endOffset": 783
+                },
+                "from": {
+                    "file": "/home/erny/Scrivania/Launcher/res/values-sk/strings.xml",
+                    "position": {
+                        "startLine": 79,
+                        "startColumn": 4,
+                        "startOffset": 7212,
+                        "endColumn": 223,
+                        "endOffset": 7431
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 788,
+                    "endColumn": 118,
+                    "endOffset": 902
+                },
+                "from": {
+                    "file": "/home/erny/Scrivania/Launcher/res/values-sk/strings.xml",
+                    "position": {
+                        "startLine": 78,
+                        "startColumn": 4,
+                        "startOffset": 7093,
+                        "endColumn": 118,
+                        "endOffset": 7207
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 907,
+                    "endColumn": 82,
+                    "endOffset": 985
+                },
+                "from": {
+                    "file": "/home/erny/Scrivania/Launcher/res/values-sk/strings.xml",
+                    "position": {
+                        "startLine": 77,
+                        "startColumn": 4,
+                        "startOffset": 7010,
+                        "endColumn": 82,
+                        "endOffset": 7088
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 990,
+                    "endColumn": 98,
+                    "endOffset": 1084
+                },
+                "from": {
+                    "file": "/home/erny/Scrivania/Launcher/res/values-sk/strings.xml",
+                    "position": {
+                        "startLine": 82,
+                        "startColumn": 4,
+                        "startOffset": 7769,
+                        "endColumn": 98,
+                        "endOffset": 7863
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1089,
+                    "endColumn": 92,
+                    "endOffset": 1177
+                },
+                "from": {
+                    "file": "/home/erny/Scrivania/Launcher/res/values-sk/strings.xml",
+                    "position": {
+                        "startLine": 104,
+                        "startColumn": 4,
+                        "startOffset": 10210,
+                        "endColumn": 92,
+                        "endOffset": 10298
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1182,
+                    "endColumn": 92,
+                    "endOffset": 1270
+                },
+                "from": {
+                    "file": "/home/erny/Scrivania/Launcher/res/values-sk/strings.xml",
+                    "position": {
+                        "startLine": 103,
+                        "startColumn": 4,
+                        "startOffset": 10117,
+                        "endColumn": 92,
+                        "endOffset": 10205
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1275,
+                    "endColumn": 93,
+                    "endOffset": 1364
+                },
+                "from": {
+                    "file": "/home/erny/Scrivania/Launcher/res/values-sk/strings.xml",
+                    "position": {
+                        "startLine": 102,
+                        "startColumn": 4,
+                        "startOffset": 10023,
+                        "endColumn": 93,
+                        "endOffset": 10112
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1369,
+                    "endColumn": 92,
+                    "endOffset": 1457
+                },
+                "from": {
+                    "file": "/home/erny/Scrivania/Launcher/res/values-sk/strings.xml",
+                    "position": {
+                        "startLine": 101,
+                        "startColumn": 4,
+                        "startOffset": 9930,
+                        "endColumn": 92,
+                        "endOffset": 10018
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1462,
+                    "endColumn": 86,
+                    "endOffset": 1544
+                },
+                "from": {
+                    "file": "/home/erny/Scrivania/Launcher/res/values-sk/strings.xml",
+                    "position": {
+                        "startLine": 86,
+                        "startColumn": 4,
+                        "startOffset": 8171,
+                        "endColumn": 86,
+                        "endOffset": 8253
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1549,
+                    "endColumn": 95,
+                    "endOffset": 1640
+                },
+                "from": {
+                    "file": "/home/erny/Scrivania/Launcher/res/values-sk/strings.xml",
+                    "position": {
+                        "startLine": 83,
+                        "startColumn": 4,
+                        "startOffset": 7868,
+                        "endColumn": 95,
+                        "endOffset": 7959
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1645,
+                    "endColumn": 107,
+                    "endOffset": 1748
+                },
+                "from": {
+                    "file": "/home/erny/Scrivania/Launcher/res/values-sk/strings.xml",
+                    "position": {
+                        "startLine": 97,
+                        "startColumn": 4,
+                        "startOffset": 9532,
+                        "endColumn": 107,
+                        "endOffset": 9635
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1753,
+                    "endColumn": 108,
+                    "endOffset": 1857
+                },
+                "from": {
+                    "file": "/home/erny/Scrivania/Launcher/res/values-sk/strings.xml",
+                    "position": {
+                        "startLine": 98,
+                        "startColumn": 4,
+                        "startOffset": 9640,
+                        "endColumn": 108,
+                        "endOffset": 9744
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1862,
+                    "endColumn": 101,
+                    "endOffset": 1959
+                },
+                "from": {
+                    "file": "/home/erny/Scrivania/Launcher/res/values-sk/strings.xml",
+                    "position": {
+                        "startLine": 96,
+                        "startColumn": 4,
+                        "startOffset": 9430,
+                        "endColumn": 101,
+                        "endOffset": 9527
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1964,
+                    "endColumn": 86,
+                    "endOffset": 2046
+                },
+                "from": {
+                    "file": "/home/erny/Scrivania/Launcher/res/values-sk/strings.xml",
+                    "position": {
+                        "startLine": 100,
+                        "startColumn": 4,
+                        "startOffset": 9843,
+                        "endColumn": 86,
+                        "endOffset": 9925
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 2051,
+                    "endColumn": 110,
+                    "endOffset": 2157
+                },
+                "from": {
+                    "file": "/home/erny/Scrivania/Launcher/res/values-sk/strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1126,
+                        "endColumn": 110,
+                        "endOffset": 1232
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 2162,
+                    "endColumn": 108,
+                    "endOffset": 2266
+                },
+                "from": {
+                    "file": "/home/erny/Scrivania/Launcher/res/values-sk/strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1017,
+                        "endColumn": 108,
+                        "endOffset": 1121
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 2271,
+                    "endColumn": 122,
+                    "endOffset": 2389
+                },
+                "from": {
+                    "file": "/home/erny/Scrivania/Launcher/res/values-sk/strings.xml",
+                    "position": {
+                        "startLine": 91,
+                        "startColumn": 4,
+                        "startOffset": 8824,
+                        "endColumn": 126,
+                        "endOffset": 8946
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 2394,
+                    "endColumn": 130,
+                    "endOffset": 2520
+                },
+                "from": {
+                    "file": "/home/erny/Scrivania/Launcher/res/values-sk/strings.xml",
+                    "position": {
+                        "startLine": 92,
+                        "startColumn": 4,
+                        "startOffset": 8951,
+                        "endColumn": 134,
+                        "endOffset": 9081
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 2525,
+                    "endColumn": 107,
+                    "endOffset": 2628
+                },
+                "from": {
+                    "file": "/home/erny/Scrivania/Launcher/res/values-sk/strings.xml",
+                    "position": {
+                        "startLine": 93,
+                        "startColumn": 4,
+                        "startOffset": 9086,
+                        "endColumn": 107,
+                        "endOffset": 9189
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 2633,
+                    "endColumn": 89,
+                    "endOffset": 2718
+                },
+                "from": {
+                    "file": "/home/erny/Scrivania/Launcher/res/values-sk/strings.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 2621,
+                        "endColumn": 89,
+                        "endOffset": 2706
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 2723,
+                    "endColumn": 100,
+                    "endOffset": 2819
+                },
+                "from": {
+                    "file": "/home/erny/Scrivania/Launcher/res/values-sk/strings.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 2711,
+                        "endColumn": 100,
+                        "endOffset": 2807
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 2824,
+                    "endColumn": 109,
+                    "endOffset": 2929
+                },
+                "from": {
+                    "file": "/home/erny/Scrivania/Launcher/res/values-sk/strings.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 1981,
+                        "endColumn": 109,
+                        "endOffset": 2086
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 2934,
+                    "endColumn": 164,
+                    "endOffset": 3094
+                },
+                "from": {
+                    "file": "/home/erny/Scrivania/Launcher/res/values-sk/strings.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 2091,
+                        "endColumn": 168,
+                        "endOffset": 2255
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 3099,
+                    "endColumn": 100,
+                    "endOffset": 3195
+                },
+                "from": {
+                    "file": "/home/erny/Scrivania/Launcher/res/values-sk/strings.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1880,
+                        "endColumn": 100,
+                        "endOffset": 1976
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 3200,
+                    "endColumn": 129,
+                    "endOffset": 3325
+                },
+                "from": {
+                    "file": "/home/erny/Scrivania/Launcher/res/values-sk/strings.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 2260,
+                        "endColumn": 133,
+                        "endOffset": 2389
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 3330,
+                    "endColumn": 95,
+                    "endOffset": 3421
+                },
+                "from": {
+                    "file": "/home/erny/Scrivania/Launcher/res/values-sk/strings.xml",
+                    "position": {
+                        "startLine": 74,
+                        "startColumn": 4,
+                        "startOffset": 6737,
+                        "endColumn": 95,
+                        "endOffset": 6828
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 3426,
+                    "endColumn": 122,
+                    "endOffset": 3544
+                },
+                "from": {
+                    "file": "/home/erny/Scrivania/Launcher/WallpaperPicker/res/values-sk/strings.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 1700,
+                        "endColumn": 126,
+                        "endOffset": 1822
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 3549,
+                    "endColumn": 176,
+                    "endOffset": 3721
+                },
+                "from": {
+                    "file": "/home/erny/Scrivania/Launcher/res/values-sk/strings.xml",
+                    "position": {
+                        "startLine": 80,
+                        "startColumn": 4,
+                        "startOffset": 7436,
+                        "endColumn": 184,
+                        "endOffset": 7616
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 3726,
+                    "endColumn": 75,
+                    "endOffset": 3797
+                },
+                "from": {
+                    "file": "/home/erny/Scrivania/Launcher/res/values-sk/strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 788,
+                        "endColumn": 75,
+                        "endOffset": 859
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 3802,
+                    "endColumn": 143,
+                    "endOffset": 3941
+                },
+                "from": {
+                    "file": "/home/erny/Scrivania/Launcher/res/values-sk/strings.xml",
+                    "position": {
+                        "startLine": 81,
+                        "startColumn": 4,
+                        "startOffset": 7621,
+                        "endColumn": 147,
+                        "endOffset": 7764
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 3946,
+                    "endColumn": 134,
+                    "endOffset": 4076
+                },
+                "from": {
+                    "file": "/home/erny/Scrivania/Launcher/res/values-sk/strings.xml",
+                    "position": {
+                        "startLine": 94,
+                        "startColumn": 4,
+                        "startOffset": 9194,
+                        "endColumn": 138,
+                        "endOffset": 9328
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 4081,
+                    "endColumn": 88,
+                    "endOffset": 4165
+                },
+                "from": {
+                    "file": "/home/erny/Scrivania/Launcher/WallpaperPicker/res/values-sk/strings.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 2072,
+                        "endColumn": 88,
+                        "endOffset": 2156
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 4170,
+                    "endColumn": 99,
+                    "endOffset": 4265
+                },
+                "from": {
+                    "file": "/home/erny/Scrivania/Launcher/res/values-sk/strings.xml",
+                    "position": {
+                        "startLine": 53,
+                        "startColumn": 4,
+                        "startOffset": 4443,
+                        "endColumn": 99,
+                        "endOffset": 4538
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 4270,
+                    "endColumn": 87,
+                    "endOffset": 4353
+                },
+                "from": {
+                    "file": "/home/erny/Scrivania/Launcher/res/values-sk/strings.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 2812,
+                        "endColumn": 87,
+                        "endOffset": 2895
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 4358,
+                    "endColumn": 100,
+                    "endOffset": 4454
+                },
+                "from": {
+                    "file": "/home/erny/Scrivania/Launcher/res/values-sk/strings.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 2900,
+                        "endColumn": 100,
+                        "endOffset": 2996
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 4459,
+                    "endColumn": 88,
+                    "endOffset": 4543
+                },
+                "from": {
+                    "file": "/home/erny/Scrivania/Launcher/res/values-sk/strings.xml",
+                    "position": {
+                        "startLine": 56,
+                        "startColumn": 4,
+                        "startOffset": 4740,
+                        "endColumn": 88,
+                        "endOffset": 4824
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 4548,
+                    "endColumn": 93,
+                    "endOffset": 4637
+                },
+                "from": {
+                    "file": "/home/erny/Scrivania/Launcher/res/values-sk/strings.xml",
+                    "position": {
+                        "startLine": 67,
+                        "startColumn": 4,
+                        "startOffset": 6013,
+                        "endColumn": 93,
+                        "endOffset": 6102
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 4642,
+                    "endColumn": 96,
+                    "endOffset": 4734
+                },
+                "from": {
+                    "file": "/home/erny/Scrivania/Launcher/res/values-sk/strings.xml",
+                    "position": {
+                        "startLine": 95,
+                        "startColumn": 4,
+                        "startOffset": 9333,
+                        "endColumn": 96,
+                        "endOffset": 9425
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 4739,
+                    "endColumn": 97,
+                    "endOffset": 4832
+                },
+                "from": {
+                    "file": "/home/erny/Scrivania/Launcher/res/values-sk/strings.xml",
+                    "position": {
+                        "startLine": 52,
+                        "startColumn": 4,
+                        "startOffset": 4345,
+                        "endColumn": 97,
+                        "endOffset": 4438
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 4837,
+                    "endColumn": 60,
+                    "endOffset": 4893
+                },
+                "from": {
+                    "file": "/home/erny/Scrivania/Launcher/res/values-sk/strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 864,
+                        "endColumn": 68,
+                        "endOffset": 928
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 4898,
+                    "endColumn": 117,
+                    "endOffset": 5011
+                },
+                "from": {
+                    "file": "/home/erny/Scrivania/Launcher/res/values-sk/strings.xml",
+                    "position": {
+                        "startLine": 69,
+                        "startColumn": 4,
+                        "startOffset": 6243,
+                        "endColumn": 121,
+                        "endOffset": 6360
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 5016,
+                    "endColumn": 154,
+                    "endOffset": 5166
+                },
+                "from": {
+                    "file": "/home/erny/Scrivania/Launcher/res/values-sk/strings.xml",
+                    "position": {
+                        "startLine": 64,
+                        "startColumn": 4,
+                        "startOffset": 5637,
+                        "endColumn": 162,
+                        "endOffset": 5795
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 5171,
+                    "endColumn": 131,
+                    "endOffset": 5298
+                },
+                "from": {
+                    "file": "/home/erny/Scrivania/Launcher/res/values-sk/strings.xml",
+                    "position": {
+                        "startLine": 68,
+                        "startColumn": 4,
+                        "startOffset": 6107,
+                        "endColumn": 135,
+                        "endOffset": 6238
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 5303,
+                    "endColumn": 104,
+                    "endOffset": 5403
+                },
+                "from": {
+                    "file": "/home/erny/Scrivania/Launcher/res/values-sk/strings.xml",
+                    "position": {
+                        "startLine": 65,
+                        "startColumn": 4,
+                        "startOffset": 5800,
+                        "endColumn": 104,
+                        "endOffset": 5900
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 5408,
+                    "endColumn": 107,
+                    "endOffset": 5511
+                },
+                "from": {
+                    "file": "/home/erny/Scrivania/Launcher/res/values-sk/strings.xml",
+                    "position": {
+                        "startLine": 66,
+                        "startColumn": 4,
+                        "startOffset": 5905,
+                        "endColumn": 107,
+                        "endOffset": 6008
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 5516,
+                    "endColumn": 109,
+                    "endOffset": 5621
+                },
+                "from": {
+                    "file": "/home/erny/Scrivania/Launcher/res/values-sk/strings.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 4,
+                        "startOffset": 4012,
+                        "endColumn": 109,
+                        "endOffset": 4117
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 5626,
+                    "endColumn": 86,
+                    "endOffset": 5708
+                },
+                "from": {
+                    "file": "/home/erny/Scrivania/Launcher/res/values-sk/strings.xml",
+                    "position": {
+                        "startLine": 50,
+                        "startColumn": 4,
+                        "startOffset": 4122,
+                        "endColumn": 86,
+                        "endOffset": 4204
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 5713,
+                    "endColumn": 122,
+                    "endOffset": 5831
+                },
+                "from": {
+                    "file": "/home/erny/Scrivania/Launcher/res/values-sk/strings.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 2498,
+                        "endColumn": 122,
+                        "endOffset": 2616
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 5836,
+                    "endColumn": 102,
+                    "endOffset": 5934
+                },
+                "from": {
+                    "file": "/home/erny/Scrivania/Launcher/WallpaperPicker/res/values-sk/strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 885,
+                        "endColumn": 102,
+                        "endOffset": 983
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 5939,
+                    "endColumn": 87,
+                    "endOffset": 6022
+                },
+                "from": {
+                    "file": "/home/erny/Scrivania/Launcher/res/values-sk/strings.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 4,
+                        "startOffset": 3001,
+                        "endColumn": 87,
+                        "endOffset": 3084
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 6027,
+                    "endColumn": 112,
+                    "endOffset": 6135
+                },
+                "from": {
+                    "file": "/home/erny/Scrivania/Launcher/res/values-sk/strings.xml",
+                    "position": {
+                        "startLine": 84,
+                        "startColumn": 4,
+                        "startOffset": 7964,
+                        "endColumn": 112,
+                        "endOffset": 8072
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 6140,
+                    "endColumn": 91,
+                    "endOffset": 6227
+                },
+                "from": {
+                    "file": "/home/erny/Scrivania/Launcher/res/values-sk/strings.xml",
+                    "position": {
+                        "startLine": 90,
+                        "startColumn": 4,
+                        "startOffset": 8732,
+                        "endColumn": 91,
+                        "endOffset": 8819
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 6232,
+                    "endColumn": 93,
+                    "endOffset": 6321
+                },
+                "from": {
+                    "file": "/home/erny/Scrivania/Launcher/res/values-sk/strings.xml",
+                    "position": {
+                        "startLine": 85,
+                        "startColumn": 4,
+                        "startOffset": 8077,
+                        "endColumn": 93,
+                        "endOffset": 8166
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 6326,
+                    "endColumn": 169,
+                    "endOffset": 6491
+                },
+                "from": {
+                    "file": "/home/erny/Scrivania/Launcher/res/values-sk/strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1621,
+                        "endColumn": 169,
+                        "endOffset": 1786
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 6496,
+                    "endColumn": 127,
+                    "endOffset": 6619
+                },
+                "from": {
+                    "file": "/home/erny/Scrivania/Launcher/res/values-sk/strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1493,
+                        "endColumn": 127,
+                        "endOffset": 1616
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 6624,
+                    "endColumn": 99,
+                    "endOffset": 6719
+                },
+                "from": {
+                    "file": "/home/erny/Scrivania/Launcher/res/values-sk/strings.xml",
+                    "position": {
+                        "startLine": 59,
+                        "startColumn": 4,
+                        "startOffset": 5076,
+                        "endColumn": 99,
+                        "endOffset": 5171
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 65,
+                    "startColumn": 4,
+                    "startOffset": 6724,
+                    "endColumn": 139,
+                    "endOffset": 6859
+                },
+                "from": {
+                    "file": "/home/erny/Scrivania/Launcher/res/values-sk/strings.xml",
+                    "position": {
+                        "startLine": 58,
+                        "startColumn": 4,
+                        "startOffset": 4936,
+                        "endColumn": 139,
+                        "endOffset": 5071
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 66,
+                    "startColumn": 4,
+                    "startOffset": 6864,
+                    "endColumn": 106,
+                    "endOffset": 6966
+                },
+                "from": {
+                    "file": "/home/erny/Scrivania/Launcher/res/values-sk/strings.xml",
+                    "position": {
+                        "startLine": 57,
+                        "startColumn": 4,
+                        "startOffset": 4829,
+                        "endColumn": 106,
+                        "endOffset": 4931
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 67,
+                    "startColumn": 4,
+                    "startOffset": 6971,
+                    "endColumn": 99,
+                    "endOffset": 7066
+                },
+                "from": {
+                    "file": "/home/erny/Scrivania/Launcher/res/values-sk/strings.xml",
+                    "position": {
+                        "startLine": 60,
+                        "startColumn": 4,
+                        "startOffset": 5176,
+                        "endColumn": 99,
+                        "endOffset": 5271
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 68,
+                    "startColumn": 4,
+                    "startOffset": 7071,
+                    "endColumn": 172,
+                    "endOffset": 7239
+                },
+                "from": {
+                    "file": "/home/erny/Scrivania/Launcher/res/values-sk/strings.xml",
+                    "position": {
+                        "startLine": 87,
+                        "startColumn": 4,
+                        "startOffset": 8258,
+                        "endColumn": 180,
+                        "endOffset": 8434
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 69,
+                    "startColumn": 4,
+                    "startOffset": 7244,
+                    "endColumn": 157,
+                    "endOffset": 7397
+                },
+                "from": {
+                    "file": "/home/erny/Scrivania/Launcher/res/values-sk/strings.xml",
+                    "position": {
+                        "startLine": 89,
+                        "startColumn": 4,
+                        "startOffset": 8570,
+                        "endColumn": 161,
+                        "endOffset": 8727
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 70,
+                    "startColumn": 4,
+                    "startOffset": 7402,
+                    "endColumn": 126,
+                    "endOffset": 7524
+                },
+                "from": {
+                    "file": "/home/erny/Scrivania/Launcher/res/values-sk/strings.xml",
+                    "position": {
+                        "startLine": 88,
+                        "startColumn": 4,
+                        "startOffset": 8439,
+                        "endColumn": 130,
+                        "endOffset": 8565
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 71,
+                    "startColumn": 4,
+                    "startOffset": 7529,
+                    "endColumn": 103,
+                    "endOffset": 7628
+                },
+                "from": {
+                    "file": "/home/erny/Scrivania/Launcher/res/values-sk/strings.xml",
+                    "position": {
+                        "startLine": 73,
+                        "startColumn": 4,
+                        "startOffset": 6633,
+                        "endColumn": 103,
+                        "endOffset": 6732
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 72,
+                    "startColumn": 4,
+                    "startOffset": 7633,
+                    "endColumn": 172,
+                    "endOffset": 7801
+                },
+                "from": {
+                    "file": "/home/erny/Scrivania/Launcher/res/values-sk/strings.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 4,
+                        "startOffset": 3835,
+                        "endColumn": 176,
+                        "endOffset": 4007
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 73,
+                    "startColumn": 4,
+                    "startOffset": 7806,
+                    "endColumn": 103,
+                    "endOffset": 7905
+                },
+                "from": {
+                    "file": "/home/erny/Scrivania/Launcher/res/values-sk/strings.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 2394,
+                        "endColumn": 103,
+                        "endOffset": 2493
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 74,
+                    "startColumn": 4,
+                    "startOffset": 7910,
+                    "endColumn": 87,
+                    "endOffset": 7993
+                },
+                "from": {
+                    "file": "/home/erny/Scrivania/Launcher/res/values-sk/strings.xml",
+                    "position": {
+                        "startLine": 75,
+                        "startColumn": 4,
+                        "startOffset": 6833,
+                        "endColumn": 87,
+                        "endOffset": 6916
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 75,
+                    "startColumn": 4,
+                    "startOffset": 7998,
+                    "endColumn": 139,
+                    "endOffset": 8133
+                },
+                "from": {
+                    "file": "/home/erny/Scrivania/Launcher/res/values-sk/strings.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 4,
+                        "startOffset": 3190,
+                        "endColumn": 139,
+                        "endOffset": 3325
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 76,
+                    "startColumn": 4,
+                    "startOffset": 8138,
+                    "endColumn": 136,
+                    "endOffset": 8270
+                },
+                "from": {
+                    "file": "/home/erny/Scrivania/Launcher/res/values-sk/strings.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 4,
+                        "startOffset": 3445,
+                        "endColumn": 136,
+                        "endOffset": 3577
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 77,
+                    "startColumn": 4,
+                    "startOffset": 8275,
+                    "endColumn": 138,
+                    "endOffset": 8409
+                },
+                "from": {
+                    "file": "/home/erny/Scrivania/Launcher/res/values-sk/strings.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 4,
+                        "startOffset": 3696,
+                        "endColumn": 138,
+                        "endOffset": 3830
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 78,
+                    "startColumn": 4,
+                    "startOffset": 8414,
+                    "endColumn": 100,
+                    "endOffset": 8510
+                },
+                "from": {
+                    "file": "/home/erny/Scrivania/Launcher/res/values-sk/strings.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 3089,
+                        "endColumn": 100,
+                        "endOffset": 3185
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 79,
+                    "startColumn": 4,
+                    "startOffset": 8515,
+                    "endColumn": 114,
+                    "endOffset": 8625
+                },
+                "from": {
+                    "file": "/home/erny/Scrivania/Launcher/res/values-sk/strings.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 3330,
+                        "endColumn": 114,
+                        "endOffset": 3440
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 80,
+                    "startColumn": 4,
+                    "startOffset": 8630,
+                    "endColumn": 113,
+                    "endOffset": 8739
+                },
+                "from": {
+                    "file": "/home/erny/Scrivania/Launcher/res/values-sk/strings.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 4,
+                        "startOffset": 3582,
+                        "endColumn": 113,
+                        "endOffset": 3691
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 81,
+                    "startColumn": 4,
+                    "startOffset": 8744,
+                    "endColumn": 79,
+                    "endOffset": 8819
+                },
+                "from": {
+                    "file": "/home/erny/Scrivania/Launcher/WallpaperPicker/res/values-sk/strings.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1912,
+                        "endColumn": 79,
+                        "endOffset": 1987
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 82,
+                    "startColumn": 4,
+                    "startOffset": 8824,
+                    "endColumn": 79,
+                    "endOffset": 8899
+                },
+                "from": {
+                    "file": "/home/erny/Scrivania/Launcher/WallpaperPicker/res/values-sk/strings.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 1992,
+                        "endColumn": 79,
+                        "endOffset": 2067
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 83,
+                    "startColumn": 4,
+                    "startOffset": 8904,
+                    "endColumn": 131,
+                    "endOffset": 9031
+                },
+                "from": {
+                    "file": "/home/erny/Scrivania/Launcher/res/values-sk/strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1237,
+                        "endColumn": 131,
+                        "endOffset": 1364
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 84,
+                    "startColumn": 4,
+                    "startOffset": 9036,
+                    "endColumn": 123,
+                    "endOffset": 9155
+                },
+                "from": {
+                    "file": "/home/erny/Scrivania/Launcher/res/values-sk/strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1369,
+                        "endColumn": 123,
+                        "endOffset": 1488
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 85,
+                    "startColumn": 4,
+                    "startOffset": 9160,
+                    "endColumn": 93,
+                    "endOffset": 9249
+                },
+                "from": {
+                    "file": "/home/erny/Scrivania/Launcher/res/values-sk/strings.xml",
+                    "position": {
+                        "startLine": 99,
+                        "startColumn": 4,
+                        "startOffset": 9749,
+                        "endColumn": 93,
+                        "endOffset": 9838
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 86,
+                    "startColumn": 4,
+                    "startOffset": 9254,
+                    "endColumn": 89,
+                    "endOffset": 9339
+                },
+                "from": {
+                    "file": "/home/erny/Scrivania/Launcher/res/values-sk/strings.xml",
+                    "position": {
+                        "startLine": 72,
+                        "startColumn": 4,
+                        "startOffset": 6543,
+                        "endColumn": 89,
+                        "endOffset": 6628
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 87,
+                    "startColumn": 4,
+                    "startOffset": 9344,
+                    "endColumn": 135,
+                    "endOffset": 9475
+                },
+                "from": {
+                    "file": "/home/erny/Scrivania/Launcher/res/values-sk/strings.xml",
+                    "position": {
+                        "startLine": 51,
+                        "startColumn": 4,
+                        "startOffset": 4209,
+                        "endColumn": 135,
+                        "endOffset": 4340
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 88,
+                    "startColumn": 4,
+                    "startOffset": 9480,
+                    "endColumn": 105,
+                    "endOffset": 9581
+                },
+                "from": {
+                    "file": "/home/erny/Scrivania/Launcher/WallpaperPicker/res/values-sk/strings.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1594,
+                        "endColumn": 105,
+                        "endOffset": 1695
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 89,
+                    "startColumn": 4,
+                    "startOffset": 9586,
+                    "endColumn": 86,
+                    "endOffset": 9668
+                },
+                "from": {
+                    "file": "/home/erny/Scrivania/Launcher/res/values-sk/strings.xml",
+                    "position": {
+                        "startLine": 71,
+                        "startColumn": 4,
+                        "startOffset": 6456,
+                        "endColumn": 86,
+                        "endOffset": 6538
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 90,
+                    "startColumn": 4,
+                    "startOffset": 9673,
+                    "endColumn": 84,
+                    "endOffset": 9753
+                },
+                "from": {
+                    "file": "/home/erny/Scrivania/Launcher/WallpaperPicker/res/values-sk/strings.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 1827,
+                        "endColumn": 84,
+                        "endOffset": 1907
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 91,
+                    "startColumn": 4,
+                    "startOffset": 9758,
+                    "endColumn": 96,
+                    "endOffset": 9850
+                },
+                "from": {
+                    "file": "/home/erny/Scrivania/Launcher/WallpaperPicker/res/values-sk/strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 788,
+                        "endColumn": 96,
+                        "endOffset": 880
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 92,
+                    "startColumn": 4,
+                    "startOffset": 9855,
+                    "endColumn": 117,
+                    "endOffset": 9968
+                },
+                "from": {
+                    "file": "/home/erny/Scrivania/Launcher/WallpaperPicker/res/values-sk/strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 988,
+                        "endColumn": 117,
+                        "endOffset": 1101
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 93,
+                    "startColumn": 4,
+                    "startOffset": 9973,
+                    "endColumn": 117,
+                    "endOffset": 10086
+                },
+                "from": {
+                    "file": "/home/erny/Scrivania/Launcher/WallpaperPicker/res/values-sk/strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1106,
+                        "endColumn": 117,
+                        "endOffset": 1219
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 94,
+                    "startColumn": 4,
+                    "startOffset": 10091,
+                    "endColumn": 99,
+                    "endOffset": 10186
+                },
+                "from": {
+                    "file": "/home/erny/Scrivania/Launcher/WallpaperPicker/res/values-sk/strings.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 2161,
+                        "endColumn": 99,
+                        "endOffset": 2256
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 95,
+                    "startColumn": 4,
+                    "startOffset": 10191,
+                    "endColumn": 137,
+                    "endOffset": 10324
+                },
+                "from": {
+                    "file": "/home/erny/Scrivania/Launcher/WallpaperPicker/res/values-sk/strings.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 2374,
+                        "endColumn": 137,
+                        "endOffset": 2507
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 96,
+                    "startColumn": 4,
+                    "startOffset": 10329,
+                    "endColumn": 112,
+                    "endOffset": 10437
+                },
+                "from": {
+                    "file": "/home/erny/Scrivania/Launcher/WallpaperPicker/res/values-sk/strings.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 2261,
+                        "endColumn": 112,
+                        "endOffset": 2369
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 97,
+                    "startColumn": 4,
+                    "startOffset": 10442,
+                    "endColumn": 90,
+                    "endOffset": 10528
+                },
+                "from": {
+                    "file": "/home/erny/Scrivania/Launcher/res/values-sk/strings.xml",
+                    "position": {
+                        "startLine": 70,
+                        "startColumn": 4,
+                        "startOffset": 6365,
+                        "endColumn": 90,
+                        "endOffset": 6451
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 98,
+                    "startColumn": 4,
+                    "startOffset": 10533,
+                    "endColumn": 88,
+                    "endOffset": 10617
+                },
+                "from": {
+                    "file": "/home/erny/Scrivania/Launcher/res/values-sk/strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1791,
+                        "endColumn": 88,
+                        "endOffset": 1875
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 99,
+                    "startColumn": 4,
+                    "startOffset": 10622,
+                    "endColumn": 193,
+                    "endOffset": 10811
+                },
+                "from": {
+                    "file": "/home/erny/Scrivania/Launcher/res/values-sk/strings.xml",
+                    "position": {
+                        "startLine": 105,
+                        "startColumn": 4,
+                        "startOffset": 10303,
+                        "endColumn": 201,
+                        "endOffset": 10500
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 100,
+                    "startColumn": 4,
+                    "startOffset": 10816,
+                    "endColumn": 83,
+                    "endOffset": 10895
+                },
+                "from": {
+                    "file": "/home/erny/Scrivania/Launcher/res/values-sk/strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 933,
+                        "endColumn": 83,
+                        "endOffset": 1012
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 101,
+                    "startColumn": 4,
+                    "startOffset": 10900,
+                    "endColumn": 138,
+                    "endOffset": 11034
+                },
+                "from": {
+                    "file": "/home/erny/Scrivania/Launcher/res/values-sk/strings.xml",
+                    "position": {
+                        "startLine": 62,
+                        "startColumn": 4,
+                        "startOffset": 5401,
+                        "endColumn": 138,
+                        "endOffset": 5535
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 102,
+                    "startColumn": 4,
+                    "startOffset": 11039,
+                    "endColumn": 96,
+                    "endOffset": 11131
+                },
+                "from": {
+                    "file": "/home/erny/Scrivania/Launcher/res/values-sk/strings.xml",
+                    "position": {
+                        "startLine": 63,
+                        "startColumn": 4,
+                        "startOffset": 5540,
+                        "endColumn": 96,
+                        "endOffset": 5632
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 103,
+                    "startColumn": 4,
+                    "startOffset": 11136,
+                    "endColumn": 124,
+                    "endOffset": 11256
+                },
+                "from": {
+                    "file": "/home/erny/Scrivania/Launcher/res/values-sk/strings.xml",
+                    "position": {
+                        "startLine": 61,
+                        "startColumn": 4,
+                        "startOffset": 5276,
+                        "endColumn": 124,
+                        "endOffset": 5396
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 104,
+                    "startColumn": 4,
+                    "startOffset": 11261,
+                    "endColumn": 95,
+                    "endOffset": 11352
+                },
+                "from": {
+                    "file": "/home/erny/Scrivania/Launcher/res/values-sk/strings.xml",
+                    "position": {
+                        "startLine": 55,
+                        "startColumn": 4,
+                        "startOffset": 4644,
+                        "endColumn": 95,
+                        "endOffset": 4735
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 105,
+                    "startColumn": 4,
+                    "startOffset": 11357,
+                    "endColumn": 100,
+                    "endOffset": 11453
+                },
+                "from": {
+                    "file": "/home/erny/Scrivania/Launcher/res/values-sk/strings.xml",
+                    "position": {
+                        "startLine": 54,
+                        "startColumn": 4,
+                        "startOffset": 4543,
+                        "endColumn": 100,
+                        "endOffset": 4639
+                    }
+                }
+            }
+        ]
+    }
+]

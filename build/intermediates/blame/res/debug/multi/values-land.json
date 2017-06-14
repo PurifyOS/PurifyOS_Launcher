@@ -1,0 +1,125 @@
+[
+    {
+        "outputFile": "/home/erny/Scrivania/Launcher/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 64,
+                    "endOffset": 115
+                },
+                "from": {
+                    "file": "/home/erny/Scrivania/Launcher/res/values-land/dimens.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 767,
+                        "endColumn": 64,
+                        "endOffset": 827
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 120,
+                    "endColumn": 62,
+                    "endOffset": 178
+                },
+                "from": {
+                    "file": "/home/erny/Scrivania/Launcher/res/values-land/dimens.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 704,
+                        "endColumn": 62,
+                        "endOffset": 762
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 183,
+                    "endColumn": 78,
+                    "endOffset": 257
+                },
+                "from": {
+                    "file": "/home/erny/Scrivania/Launcher/res/values-land/dimens.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 5,
+                        "startOffset": 857,
+                        "endColumn": 79,
+                        "endOffset": 931
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 262,
+                    "endLine": 14,
+                    "endColumn": 12,
+                    "endOffset": 918
+                },
+                "from": {
+                    "file": "/home/erny/Scrivania/Launcher/res/values-land/styles.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1004,
+                        "endLine": 39,
+                        "endColumn": 12,
+                        "endOffset": 1660
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 923,
+                    "endLine": 18,
+                    "endColumn": 12,
+                    "endOffset": 1101
+                },
+                "from": {
+                    "file": "/home/erny/Scrivania/Launcher/res/values-land/styles.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 737,
+                        "endLine": 27,
+                        "endColumn": 12,
+                        "endOffset": 915
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1106,
+                    "endColumn": 32,
+                    "endOffset": 1134
+                },
+                "from": {
+                    "file": "/home/erny/Scrivania/Launcher/res/values-land/styles.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 696,
+                        "endColumn": 39,
+                        "endOffset": 731
+                    }
+                }
+            }
+        ]
+    }
+]

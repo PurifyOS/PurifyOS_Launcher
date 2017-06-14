@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/erny/Scrivania/Launcher/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher_wallpaper.png",
+        "source": "/home/erny/Scrivania/Launcher/WallpaperPicker/res/mipmap-mdpi/ic_launcher_wallpaper.png"
+    },
+    {
+        "merged": "/home/erny/Scrivania/Launcher/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher_home.png",
+        "source": "/home/erny/Scrivania/Launcher/res/mipmap-mdpi/ic_launcher_home.png"
+    }
+]

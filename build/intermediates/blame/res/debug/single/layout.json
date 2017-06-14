@@ -1,0 +1,146 @@
+[
+    {
+        "merged": "/home/erny/Scrivania/Launcher/build/intermediates/res/merged/debug/layout/wallpaper_picker_image_picker_item.xml",
+        "source": "/home/erny/Scrivania/Launcher/WallpaperPicker/res/layout/wallpaper_picker_image_picker_item.xml"
+    },
+    {
+        "merged": "/home/erny/Scrivania/Launcher/build/intermediates/res/merged/debug/layout/appwidget_error.xml",
+        "source": "/home/erny/Scrivania/Launcher/res/layout/appwidget_error.xml"
+    },
+    {
+        "merged": "/home/erny/Scrivania/Launcher/build/intermediates/res/merged/debug/layout/all_apps_container.xml",
+        "source": "/home/erny/Scrivania/Launcher/res/layout/all_apps_container.xml"
+    },
+    {
+        "merged": "/home/erny/Scrivania/Launcher/build/intermediates/res/merged/debug/layout/all_apps_empty_search.xml",
+        "source": "/home/erny/Scrivania/Launcher/res/layout/all_apps_empty_search.xml"
+    },
+    {
+        "merged": "/home/erny/Scrivania/Launcher/build/intermediates/res/merged/debug/layout/wallpaper_cropper.xml",
+        "source": "/home/erny/Scrivania/Launcher/WallpaperPicker/res/layout/wallpaper_cropper.xml"
+    },
+    {
+        "merged": "/home/erny/Scrivania/Launcher/build/intermediates/res/merged/debug/layout/user_folder_icon_normalized.xml",
+        "source": "/home/erny/Scrivania/Launcher/res/layout/user_folder_icon_normalized.xml"
+    },
+    {
+        "merged": "/home/erny/Scrivania/Launcher/build/intermediates/res/merged/debug/layout/user_folder.xml",
+        "source": "/home/erny/Scrivania/Launcher/res/layout/user_folder.xml"
+    },
+    {
+        "merged": "/home/erny/Scrivania/Launcher/build/intermediates/res/merged/debug/layout/widgets_view.xml",
+        "source": "/home/erny/Scrivania/Launcher/res/layout/widgets_view.xml"
+    },
+    {
+        "merged": "/home/erny/Scrivania/Launcher/build/intermediates/res/merged/debug/layout/page_indicator.xml",
+        "source": "/home/erny/Scrivania/Launcher/res/layout/page_indicator.xml"
+    },
+    {
+        "merged": "/home/erny/Scrivania/Launcher/build/intermediates/res/merged/debug/layout/widgets_list_row_view.xml",
+        "source": "/home/erny/Scrivania/Launcher/res/layout/widgets_list_row_view.xml"
+    },
+    {
+        "merged": "/home/erny/Scrivania/Launcher/build/intermediates/res/merged/debug/layout/workspace_screen.xml",
+        "source": "/home/erny/Scrivania/Launcher/res/layout/workspace_screen.xml"
+    },
+    {
+        "merged": "/home/erny/Scrivania/Launcher/build/intermediates/res/merged/debug/layout/hotseat.xml",
+        "source": "/home/erny/Scrivania/Launcher/res/layout/hotseat.xml"
+    },
+    {
+        "merged": "/home/erny/Scrivania/Launcher/build/intermediates/res/merged/debug/layout/all_apps_search_bar.xml",
+        "source": "/home/erny/Scrivania/Launcher/res/layout/all_apps_search_bar.xml"
+    },
+    {
+        "merged": "/home/erny/Scrivania/Launcher/build/intermediates/res/merged/debug/layout/longpress_cling_welcome_content.xml",
+        "source": "/home/erny/Scrivania/Launcher/res/layout/longpress_cling_welcome_content.xml"
+    },
+    {
+        "merged": "/home/erny/Scrivania/Launcher/build/intermediates/res/merged/debug/layout/wallpaper_picker_live_wallpaper_item.xml",
+        "source": "/home/erny/Scrivania/Launcher/WallpaperPicker/res/layout/wallpaper_picker_live_wallpaper_item.xml"
+    },
+    {
+        "merged": "/home/erny/Scrivania/Launcher/build/intermediates/res/merged/debug/layout/folder_icon.xml",
+        "source": "/home/erny/Scrivania/Launcher/res/layout/folder_icon.xml"
+    },
+    {
+        "merged": "/home/erny/Scrivania/Launcher/build/intermediates/res/merged/debug/layout/overview_panel.xml",
+        "source": "/home/erny/Scrivania/Launcher/res/layout/overview_panel.xml"
+    },
+    {
+        "merged": "/home/erny/Scrivania/Launcher/build/intermediates/res/merged/debug/layout/widget_cell.xml",
+        "source": "/home/erny/Scrivania/Launcher/res/layout/widget_cell.xml"
+    },
+    {
+        "merged": "/home/erny/Scrivania/Launcher/build/intermediates/res/merged/debug/layout/wallpaper_picker_item.xml",
+        "source": "/home/erny/Scrivania/Launcher/WallpaperPicker/res/layout/wallpaper_picker_item.xml"
+    },
+    {
+        "merged": "/home/erny/Scrivania/Launcher/build/intermediates/res/merged/debug/layout/all_apps.xml",
+        "source": "/home/erny/Scrivania/Launcher/res/layout/all_apps.xml"
+    },
+    {
+        "merged": "/home/erny/Scrivania/Launcher/build/intermediates/res/merged/debug/layout/zzz_dummy_widget.xml",
+        "source": "/home/erny/Scrivania/Launcher/res/layout/zzz_dummy_widget.xml"
+    },
+    {
+        "merged": "/home/erny/Scrivania/Launcher/build/intermediates/res/merged/debug/layout/all_apps_search_market_divider.xml",
+        "source": "/home/erny/Scrivania/Launcher/res/layout/all_apps_search_market_divider.xml"
+    },
+    {
+        "merged": "/home/erny/Scrivania/Launcher/build/intermediates/res/merged/debug/layout/app_icon.xml",
+        "source": "/home/erny/Scrivania/Launcher/res/layout/app_icon.xml"
+    },
+    {
+        "merged": "/home/erny/Scrivania/Launcher/build/intermediates/res/merged/debug/layout/all_apps_button.xml",
+        "source": "/home/erny/Scrivania/Launcher/res/layout/all_apps_button.xml"
+    },
+    {
+        "merged": "/home/erny/Scrivania/Launcher/build/intermediates/res/merged/debug/layout/wallpaper_picker_third_party_item.xml",
+        "source": "/home/erny/Scrivania/Launcher/WallpaperPicker/res/layout/wallpaper_picker_third_party_item.xml"
+    },
+    {
+        "merged": "/home/erny/Scrivania/Launcher/build/intermediates/res/merged/debug/layout/all_apps_prediction_bar_icon.xml",
+        "source": "/home/erny/Scrivania/Launcher/res/layout/all_apps_prediction_bar_icon.xml"
+    },
+    {
+        "merged": "/home/erny/Scrivania/Launcher/build/intermediates/res/merged/debug/layout/page_indicator_marker.xml",
+        "source": "/home/erny/Scrivania/Launcher/res/layout/page_indicator_marker.xml"
+    },
+    {
+        "merged": "/home/erny/Scrivania/Launcher/build/intermediates/res/merged/debug/layout/zzz_weight_watcher.xml",
+        "source": "/home/erny/Scrivania/Launcher/res/layout/zzz_weight_watcher.xml"
+    },
+    {
+        "merged": "/home/erny/Scrivania/Launcher/build/intermediates/res/merged/debug/layout/appwidget_not_ready.xml",
+        "source": "/home/erny/Scrivania/Launcher/res/layout/appwidget_not_ready.xml"
+    },
+    {
+        "merged": "/home/erny/Scrivania/Launcher/build/intermediates/res/merged/debug/layout/longpress_cling_content.xml",
+        "source": "/home/erny/Scrivania/Launcher/res/layout/longpress_cling_content.xml"
+    },
+    {
+        "merged": "/home/erny/Scrivania/Launcher/build/intermediates/res/merged/debug/layout/search_drop_target_bar.xml",
+        "source": "/home/erny/Scrivania/Launcher/res/layout/search_drop_target_bar.xml"
+    },
+    {
+        "merged": "/home/erny/Scrivania/Launcher/build/intermediates/res/merged/debug/layout/all_apps_icon.xml",
+        "source": "/home/erny/Scrivania/Launcher/res/layout/all_apps_icon.xml"
+    },
+    {
+        "merged": "/home/erny/Scrivania/Launcher/build/intermediates/res/merged/debug/layout/all_apps_search_market.xml",
+        "source": "/home/erny/Scrivania/Launcher/res/layout/all_apps_search_market.xml"
+    },
+    {
+        "merged": "/home/erny/Scrivania/Launcher/build/intermediates/res/merged/debug/layout/actionbar_set_wallpaper.xml",
+        "source": "/home/erny/Scrivania/Launcher/WallpaperPicker/res/layout/actionbar_set_wallpaper.xml"
+    },
+    {
+        "merged": "/home/erny/Scrivania/Launcher/build/intermediates/res/merged/debug/layout/wallpaper_picker.xml",
+        "source": "/home/erny/Scrivania/Launcher/WallpaperPicker/res/layout/wallpaper_picker.xml"
+    },
+    {
+        "merged": "/home/erny/Scrivania/Launcher/build/intermediates/res/merged/debug/layout/folder_application.xml",
+        "source": "/home/erny/Scrivania/Launcher/res/layout/folder_application.xml"
+    }
+]

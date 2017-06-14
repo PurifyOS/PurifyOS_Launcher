@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "/home/erny/Scrivania/Launcher/build/intermediates/res/merged/debug/drawable/horizontal_line.xml",
+        "source": "/home/erny/Scrivania/Launcher/res/drawable/horizontal_line.xml"
+    },
+    {
+        "merged": "/home/erny/Scrivania/Launcher/build/intermediates/res/merged/debug/drawable/quantum_panel_shape_dark.xml",
+        "source": "/home/erny/Scrivania/Launcher/res/drawable/quantum_panel_shape_dark.xml"
+    },
+    {
+        "merged": "/home/erny/Scrivania/Launcher/build/intermediates/res/merged/debug/drawable/all_apps_button_icon.xml",
+        "source": "/home/erny/Scrivania/Launcher/res/drawable/all_apps_button_icon.xml"
+    },
+    {
+        "merged": "/home/erny/Scrivania/Launcher/build/intermediates/res/merged/debug/drawable/container_fastscroll_popup_bg.xml",
+        "source": "/home/erny/Scrivania/Launcher/res/drawable/container_fastscroll_popup_bg.xml"
+    },
+    {
+        "merged": "/home/erny/Scrivania/Launcher/build/intermediates/res/merged/debug/drawable/focusable_view_bg.xml",
+        "source": "/home/erny/Scrivania/Launcher/res/drawable/focusable_view_bg.xml"
+    },
+    {
+        "merged": "/home/erny/Scrivania/Launcher/build/intermediates/res/merged/debug/drawable/all_apps_search_market_bg.xml",
+        "source": "/home/erny/Scrivania/Launcher/res/drawable/all_apps_search_market_bg.xml"
+    },
+    {
+        "merged": "/home/erny/Scrivania/Launcher/build/intermediates/res/merged/debug/drawable/wallpaper_button.xml",
+        "source": "/home/erny/Scrivania/Launcher/res/drawable/wallpaper_button.xml"
+    },
+    {
+        "merged": "/home/erny/Scrivania/Launcher/build/intermediates/res/merged/debug/drawable/bg_migration_cling.xml",
+        "source": "/home/erny/Scrivania/Launcher/res/drawable/bg_migration_cling.xml"
+    },
+    {
+        "merged": "/home/erny/Scrivania/Launcher/build/intermediates/res/merged/debug/drawable/bg_screenpanel.xml",
+        "source": "/home/erny/Scrivania/Launcher/res/drawable/bg_screenpanel.xml"
+    },
+    {
+        "merged": "/home/erny/Scrivania/Launcher/build/intermediates/res/merged/debug/drawable/quantum_panel.xml",
+        "source": "/home/erny/Scrivania/Launcher/res/drawable/quantum_panel.xml"
+    },
+    {
+        "merged": "/home/erny/Scrivania/Launcher/build/intermediates/res/merged/debug/drawable/all_apps_search_bg.xml",
+        "source": "/home/erny/Scrivania/Launcher/res/drawable/all_apps_search_bg.xml"
+    },
+    {
+        "merged": "/home/erny/Scrivania/Launcher/build/intermediates/res/merged/debug/drawable/widget_button.xml",
+        "source": "/home/erny/Scrivania/Launcher/res/drawable/widget_button.xml"
+    },
+    {
+        "merged": "/home/erny/Scrivania/Launcher/build/intermediates/res/merged/debug/drawable/widgets_row_divider.xml",
+        "source": "/home/erny/Scrivania/Launcher/res/drawable/widgets_row_divider.xml"
+    },
+    {
+        "merged": "/home/erny/Scrivania/Launcher/build/intermediates/res/merged/debug/drawable/quantum_panel_dark.xml",
+        "source": "/home/erny/Scrivania/Launcher/res/drawable/quantum_panel_dark.xml"
+    },
+    {
+        "merged": "/home/erny/Scrivania/Launcher/build/intermediates/res/merged/debug/drawable/widget_internal_focus_bg.xml",
+        "source": "/home/erny/Scrivania/Launcher/res/drawable/widget_internal_focus_bg.xml"
+    },
+    {
+        "merged": "/home/erny/Scrivania/Launcher/build/intermediates/res/merged/debug/drawable/setting_button.xml",
+        "source": "/home/erny/Scrivania/Launcher/res/drawable/setting_button.xml"
+    },
+    {
+        "merged": "/home/erny/Scrivania/Launcher/build/intermediates/res/merged/debug/drawable/quantum_panel_shape.xml",
+        "source": "/home/erny/Scrivania/Launcher/res/drawable/quantum_panel_shape.xml"
+    },
+    {
+        "merged": "/home/erny/Scrivania/Launcher/build/intermediates/res/merged/debug/drawable/wallpaper_tile_fg.xml",
+        "source": "/home/erny/Scrivania/Launcher/WallpaperPicker/res/drawable/wallpaper_tile_fg.xml"
+    }
+]
