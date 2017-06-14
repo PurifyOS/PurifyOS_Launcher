@@ -53,7 +53,7 @@ public class ShortcutAndWidgetContainer extends ViewGroup {
     }
 
     public void setCellDimensions(int cellWidth, int cellHeight, int widthGap, int heightGap,
-                                  int countX, int countY) {
+            int countX, int countY) {
         mCellWidth = cellWidth;
         mCellHeight = cellHeight;
         mWidthGap = widthGap;
